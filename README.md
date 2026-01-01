@@ -32,7 +32,7 @@ pip install pillow requests beautifulsoup4
 ```bash
 code/
     cache/
-    data/
+    data/                         
         movieSet.json
     tool/
         getPic.py
@@ -44,7 +44,7 @@ code/
     main.py
 README.md
 ```
-- cache檔會儲存每輪遊戲所需的圖片，遊戲結束會自動刪除
+- cache檔會儲存每輪遊戲所需的圖片，遊戲開始後會自動新增
 - data中的movieSet儲存了可用來出題的電影集
 - tool內包含抓取、裁切圖片與刪除快取檔案的工具
 - openPic可使用圖片檢視器自動開啟題目圖片
