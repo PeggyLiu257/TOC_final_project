@@ -209,4 +209,4 @@ __marimo__/
 # Project specific
 cache/
 .env
-code/call_LLM.py
+code_upload/call_LLM.py
