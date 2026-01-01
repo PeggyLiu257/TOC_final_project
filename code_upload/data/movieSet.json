@@ -1,0 +1,171 @@
+ [
+        {
+            "id":"1",
+            "name_zh" : "神隱少女",
+            "name_en" : "Spirited Away",
+            "name_jp" : "千と千尋の神隠し",
+            "pic_url" : "https://www.ghibli.jp/works/chihiro/"
+        },
+        
+        {
+            "id":"2",
+            "name_zh" : "地海戰記",
+            "name_en" : "Tales from Earthsea",
+            "name_jp" : "ゲド戦記",
+            "pic_url" : "https://www.ghibli.jp/works/ged/"
+        },
+
+        {
+            "id":"3",
+            "name_zh" : "崖上的波妞",
+            "name_en" : "Ponyo on the Cliff by the Sea",
+            "name_jp" : "崖の上のポニョ",
+            "pic_url" : "https://www.ghibli.jp/works/ponyo/"
+        },
+
+        {
+            "id":"4",
+            "name_zh" : "借物少女艾莉緹",
+            "name_en" : "Arrietty",
+            "name_jp" : "借りぐらしのアリエッティ",
+            "pic_url" : "https://www.ghibli.jp/works/karigurashi/"
+        },
+
+        {
+            "id":"5",
+            "name_zh" : "來自紅花坂",
+            "name_en" : "From Up on Poppy Hill",
+            "name_jp" : "コクリコ坂から",
+            "pic_url" : "https://www.ghibli.jp/works/kokurikozaka/"
+        },
+
+        {
+            "id":"6",
+            "name_zh" : "風起",
+            "name_en" : "The Wind Rises",
+            "name_jp" : "風立ちぬ",
+            "pic_url" : "https://www.ghibli.jp/works/kazetachinu/"
+        },
+
+        {
+            "id":"7",
+            "name_zh" : "輝耀姬物語",
+            "name_en" : "The Tale of The Princess Kaguya",
+            "name_jp" : "かぐや姫の物語",
+            "pic_url" : "https://www.ghibli.jp/works/kaguyahime/"
+        },
+
+        {
+            "id":"8",
+            "name_zh" : "回憶中的瑪妮",
+            "name_en" : "When Marnie Was There",
+            "name_jp" : "思い出のマーニー",
+            "pic_url" : "https://www.ghibli.jp/works/marnie/"
+        },
+
+        {
+            "id":"9",
+            "name_zh" : "心之谷",
+            "name_en" : "Whisper of the Heart",
+            "name_jp" : "耳をすませば",
+            "pic_url" : "https://www.ghibli.jp/works/mimi/"
+        },
+
+        {
+            "id":"10",
+            "name_zh" : "魔法公主",
+            "name_en" : "Princess Mononoke",
+            "name_jp" : "もののけ姫",
+            "pic_url" : "https://www.ghibli.jp/works/mononoke/"
+        },
+
+        {
+            "id":"11",
+            "name_zh" : "貓的報恩",
+            "name_en" : "The Cat Returns",
+            "name_jp" : "猫の恩返し",
+            "pic_url" : "https://www.ghibli.jp/works/baron/"
+        },
+
+        {
+            "id":"12",
+            "name_zh" : "霍爾的移動城堡",
+            "name_en" : "Howl's Moving Castle",
+            "name_jp" : "ハウルの動く城",
+            "pic_url" : "https://www.ghibli.jp/works/howl/"
+        },
+
+        {
+            "id":"13",
+            "name_zh" : "龍貓",
+            "name_en" : "My Neighbor Totoro",
+            "name_jp" : "となりのトトロ",
+            "pic_url" : "https://www.ghibli.jp/works/totoro/"
+        },
+
+        {
+            "id":"14",
+            "name_zh" : "魔女宅急便",
+            "name_en" : "Kiki's Delivery Service",
+            "name_jp" : "魔女の宅急便",
+            "pic_url" : "https://www.ghibli.jp/works/majo/"
+        },
+
+        {
+            "id":"15",
+            "name_zh" : "紅豬",
+            "name_en" : "Porco Rosso",
+            "name_jp" : "紅の豚",
+            "pic_url" : "https://www.ghibli.jp/works/porco/"
+        },
+
+        {
+            "id":"16",
+            "name_zh" : "海潮之聲",
+            "name_en" : "Ocean Waves",
+            "name_jp" : "海がきこえる",
+            "pic_url" : "https://www.ghibli.jp/works/umi/"
+        },
+
+        {
+            "id":"17",
+            "name_zh" : "平成貍合戰",
+            "name_en" : "Pom Poko",
+            "name_jp" : "平成狸合戦ぽんぽこ",
+            "pic_url" : "https://www.ghibli.jp/works/tanuki/"
+        },
+
+        {
+            "id":"18",
+            "name_zh" : "風之谷",
+            "name_en" : "Nausicaä of the Valley of the Wind",
+            "name_jp" : "風の谷のナウシカ",
+            "pic_url" : "https://www.ghibli.jp/works/nausicaa/"
+        },
+
+        {
+            "id":"19",
+            "name_zh" : "天空之城",
+            "name_en" : "Castle in the Sky",
+            "name_jp" : "天空の城ラピュタ",
+            "pic_url" : "https://www.ghibli.jp/works/laputa/"
+        },
+
+        {
+            "id":"20",
+            "name_zh" : "兒時的點點滴滴",
+            "name_en" : "Only Yesterday",
+            "name_jp" : "おもひでぽろぽろ",
+            "pic_url" : "https://www.ghibli.jp/works/omoide/#frame"
+        },
+
+        {
+            "id":"21",
+            "name_zh" : "蒼鷺與少年",
+            "name_en" : "The Boy and the Heron",
+            "name_jp" : "君たちはどう生きるか",
+            "pic_url" : "https://www.ghibli.jp/works/kimitachi/"
+        }
+]
+
+
