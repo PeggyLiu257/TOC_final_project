@@ -53,4 +53,4 @@ README.md
 - main是CLI的入口
 
 ## State Machine Diagram
-![State Machine Diagram](TOC_project\FSM.jpg)
+![State Machine Diagram](FSM.jpg)
